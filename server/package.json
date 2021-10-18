@@ -1,0 +1,15 @@
+{
+  "name": "server-profile",
+  "version": "1.0.0",
+  "description": "Server profile",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "nguyendinhqui1029@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
